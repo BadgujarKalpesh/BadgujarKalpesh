@@ -15,7 +15,7 @@
 
 
 ### Glad to see you here!  
-I’m Third year computer science student with proficiency in Java,Data Structures and Algorithms,HTML,CSS,
+I’m Third year computer science student with proficiency in Java Language, Data Structures and Algorithms, HTML, CSS,
 Javascript.  
   
 
@@ -31,7 +31,7 @@ Javascript.
 - 🌱 I’m currently learning React JS.  
   
 
-- ❓ Ask me about anything related to Java ,Data Structures and Algorithms,HTML,CSS and javascript.  
+- ❓ Ask me about anything related to Java Language, Data Structures and Algorithms, HTML, CSS and javascript.  
   
 
 - ⚡ Fun fact: I keep night shift swithed on at all times   
