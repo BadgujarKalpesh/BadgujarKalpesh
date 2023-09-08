@@ -15,8 +15,8 @@
 
 
 ### Glad to see you here!  
-I’m Third year computer science student with proficiency in Java Language, Data Structures and Algorithms, HTML, CSS,
-Javascript.  
+I’m Final year computer science student with proficiency in Java Language, Data Structures and Algorithms, HTML, CSS,
+Javascript, React.js, Tailwind CSS.  
   
 
 <br/>  
