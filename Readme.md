@@ -1,5 +1,4 @@
 ## Hey 👋, I'm Kalpesh Badgujar!  
-  
 
 <a href="https://github.com/BadgujarKalpesh" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -12,11 +11,8 @@
 </a>  
   
 
-
-
 ### Glad to see you here!  
-I’m Final year computer science student with proficiency in Java Language, Data Structures and Algorithms, HTML, CSS,
-Javascript, React.js, Tailwind CSS.  
+I’m a final year computer science student with proficiency in Java Language, Data Structures and Algorithms, HTML, CSS, JavaScript, React.js, Tailwind CSS, Node.js, Express.js, and MongoDB.  
   
 
 <br/>  
@@ -25,16 +21,16 @@ Javascript, React.js, Tailwind CSS.
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on javascript  
+- 🔭 I’m currently working on JavaScript  
   
 
 - 🌱 I’m currently learning React JS.  
   
 
-- ❓ Ask me about anything related to Java Language, Data Structures and Algorithms, HTML, CSS and javascript.  
+- ❓ Ask me about anything related to Java Language, Data Structures and Algorithms, HTML, CSS, and JavaScript.  
   
 
-- ⚡ Fun fact: I keep night shift swithed on at all times   
+- ⚡ Fun fact: I keep night shift switched on at all times   
 
 
 </td><td valign="top" width="50%">
@@ -59,13 +55,16 @@ Javascript, React.js, Tailwind CSS.
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobeindesign.svg" alt="Adobe InDesign" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobepremierepro.png" alt="Premiere Pro" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="25" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="25" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="25" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postman.svg" alt="Postman" height="25" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="25" />  
 </div>  
 
 <br/>  
@@ -84,15 +83,12 @@ Javascript, React.js, Tailwind CSS.
 
 <br/>  
 
-  
 
 <br/>  
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=BadgujarKalpesh&&style=flat-square)  
-  
 
 <br/>  
-
 
 <br />
 
