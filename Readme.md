@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧑‍💻 **Currently:**  <br>- Working as a Full Stack Developer Intern at [Automaxis](#)  <br><br>
+🧑‍💻 **Experience:**  <br>- Ex-Full Stack Developer Intern at [Automaxis](#)  <br><br>
 
 
 ## 🌐 Socials:
